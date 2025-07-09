@@ -3,15 +3,11 @@
 #
 ## 📁 Proyectos
 ## 1.- 🌦️ [Notificador de Clima con Twilio y Cron](https://github.com/LangelCr/proyecto_clima)
-**Descripción:** Script automatizado que consulta la API de WeatherAPI y envía el pronóstico diario por mensaje SMS usando Twilio.  
-**Tecnologías:** Python, API REST, Twilio, Cron, AWS EC2.  
-**Destacado por:** Despliegue en la nube y ejecución diaria automática.
+- **Descripción:** Script automatizado que consulta la API de WeatherAPI y envía el pronóstico diario por mensaje SMS usando Twilio.  
+- **Tecnologías:** Python, API REST, Twilio, Cron, AWS EC2.  
+- **Destacado por:** Despliegue en la nube y ejecución diaria automática.
 
 ## 2.- 🚲 [Estudio de caso: Sistema de bicicletas compartidas](https://github.com/LangelCr/Caso_de_Estudio_Cyclistic) 
-
-**Descripción:** Script automatizado que consulta la API de WeatherAPI y envía el pronóstico diario por mensaje SMS usando Twilio.  
-**Tecnologías:** Python, API REST, Twilio, Cron, AWS EC2.  
-**Destacado por:** Despliegue en la nube y ejecución diaria automática.
 
 - **Descripción:** Análisis exploratorio de datos (EDA) sobre el uso de bicicletas compartidas Divvy en Chicago. El objetivo fue identificar diferencias en el comportamiento entre usuarios casuales y miembros anuales, como parte del Google Data Analytics Capstone Case Study.
 - **Tecnologías:** R, tidyverse, lubridate, ggplot2, dplyr, janitor.

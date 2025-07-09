@@ -13,6 +13,6 @@
 **Tecnologías:** Python, API REST, Twilio, Cron, AWS EC2.  
 **Destacado por:** Despliegue en la nube y ejecución diaria automática.
 
-**Descripción:** Análisis exploratorio de datos (EDA) sobre el uso de bicicletas compartidas Divvy en Chicago. El objetivo fue identificar diferencias en el comportamiento entre usuarios casuales y miembros anuales, como parte del Google Data Analytics Capstone Case Study.
-**Tecnologías:** R, tidyverse, lubridate, ggplot2, dplyr, janitor.
-**Destacado por:** Limpieza de datos, generación de métricas clave (duración de viajes, días activos), visualizaciones por tipo de usuario y exportación reproducible.
+- **Descripción:** Análisis exploratorio de datos (EDA) sobre el uso de bicicletas compartidas Divvy en Chicago. El objetivo fue identificar diferencias en el comportamiento entre usuarios casuales y miembros anuales, como parte del Google Data Analytics Capstone Case Study.
+- **Tecnologías:** R, tidyverse, lubridate, ggplot2, dplyr, janitor.
+- **Destacado por:** Limpieza de datos, generación de métricas clave (duración de viajes, días activos), visualizaciones por tipo de usuario y exportación reproducible.

@@ -1,4 +1,4 @@
-# 📊 Portafolio de proyectos de analisis, e ingeniería de datos
+# Portafolio de proyectos de analisis, e ingeniería de datos
 #### Hola! mi nombre es Angel, y cree este repositorio para compartir mi portafolio de proyectos de analisis e ingeniería de datos (el cual sigue en desarrollo), aqui encontrarás proyectos que han sido completados en conjunto con cursos o hechos de forma independiente y con los cuales he practicado habilidades y tecnicas esenciales de análisis/ingenieria de datos.
 #
 ## 📁 Proyectos
